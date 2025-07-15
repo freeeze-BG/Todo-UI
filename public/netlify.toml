@@ -1,4 +1,6 @@
 [[redirects]]
+  command = "npm install --force && npm run build"
+ 
 from="/*"
 to="/index.html"
 status="200"
